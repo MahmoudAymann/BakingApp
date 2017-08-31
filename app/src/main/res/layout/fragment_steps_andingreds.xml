@@ -1,0 +1,27 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.mayman.bakingtestjson.StepsIngredientsFragment"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/ingredients_idx"
+        android:text="ingredients"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="10dp">
+
+    </View>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/detail_recyclerViewx"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyBakingApp</string>
+    <string name="productName">NAME</string>
+
+    <string name="BakingURL">https://d17h27t6h515a5.cloudfront.net/topher/2017/May/59121517_baking/baking.json</string>
+
+
+    <string name="text2">Description</string>
+    <string name="text3">back</string>
+    <string name="text4">next</string>
+    <string name="appwidget_text">WIDGETDATA</string>
+    <string name="add_widget">Add widget</string>
+    <string name="update">Update</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="widgetText">here</string>
+    <string name="main_imageview">main_imageView</string>
+</resources>
